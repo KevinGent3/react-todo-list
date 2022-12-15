@@ -7,6 +7,8 @@ header {
   align-items: center;
   padding-left: 40px;
   gap: 20px;
+  width: 100vw;
+  position: fixed;
   border-bottom: solid green 1px;
 }
 header .icon {
