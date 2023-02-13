@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Header from "./Components/Header";
+import Footer from "./Components/Footer";
 import "./App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { library } from "@fortawesome/fontawesome-svg-core";
@@ -78,6 +79,7 @@ function App() {
           <input className="submit-button" type="submit" value="Add task" />
         </form>
       </main>
+      <Footer></Footer>
     </div>
   );
 }
