@@ -2,7 +2,7 @@
 
 :date: January 2023
 :paintbrush: Frontend
-:link: Netlify check it [here]:(https://deft-treacle-c4957f.netlify.app/)
+:link: Netlify check it [here](https://deft-treacle-c4957f.netlify.app/)
 
 ## Overview - Welcome :dog:
 
