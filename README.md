@@ -1,7 +1,7 @@
 # TODO LIST :memo:
 
-:date: January 2023. 
-:paintbrush: Frontend. 
+:date: January 2023   
+:paintbrush: Frontend  
 :link: Netlify check it [here](https://deft-treacle-c4957f.netlify.app/)  
 
 ## Overview - Welcome :dog:
